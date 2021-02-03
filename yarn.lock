@@ -816,10 +816,10 @@
   resolved "https://registry.yarnpkg.com/@types/htmlescape/-/htmlescape-1.1.1.tgz#8aa7ac246f9a69999b84873f072f2e30e1334f03"
   integrity sha1-iqesJG+aaZmbhIc/By8uMOEzTwM=
 
-"@types/ioredis@4.17.9":
-  version "4.17.9"
-  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-4.17.9.tgz#b11e4768a40ce6ae8d0c8b1266feb98e9dbfd999"
-  integrity sha512-YVLcCDQXaQRMK6Lut2f7KaiU2sV2dEN57AmZTtcZW/TXYv3wKwZTV87oUaA/IAI1Xk4s+d+kXLlCJkGAycfpHw==
+"@types/ioredis@4.19.3":
+  version "4.19.3"
+  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-4.19.3.tgz#577548fbd03200ef92a81fd745899316c6f28917"
+  integrity sha512-r9rXLYeZVmvTf0nKDmFYrpBeVzK5B6jgE2ncfkzPOAuRM5RTzKnYdW2wVn+ZONMnFxV6H4R3NrCdRdC3CL4nFA==
   dependencies:
     "@types/node" "*"
 

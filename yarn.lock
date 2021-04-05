@@ -1486,10 +1486,10 @@ chownr@^1.1.1:
   resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.1.4.tgz#6fc9d7b42d32a583596337666e7d08084da2cc6b"
   integrity sha512-jJ0bqzaylmJtVnNgzTeSOs8DPavpbYgEr/b0YL8/2GO3xJEhInFmhKMUnEJQjZumK7KXGFhUy89PrsJWlakBVg==
 
-chrome-aws-lambda@8.0.1:
-  version "8.0.1"
-  resolved "https://registry.yarnpkg.com/chrome-aws-lambda/-/chrome-aws-lambda-8.0.1.tgz#b5e0fb3bd427912bc4a1c8419eedcc73c4a21961"
-  integrity sha512-VhNBJf9gVr67HCLLBk8Cj6QB3X/V6AKCYBEoTIR+ahrXp6ScNEH7Xb/1RIprBR8xkaMVV3nT8R2UdE2uQ1gpdg==
+chrome-aws-lambda@8.0.2:
+  version "8.0.2"
+  resolved "https://registry.yarnpkg.com/chrome-aws-lambda/-/chrome-aws-lambda-8.0.2.tgz#46a062d2cc07d5cc047606558093bae371a5b709"
+  integrity sha512-a4VEX6DknxISPqGLksZa/JuEnjc4nLXaG0BMp5c9qERvJ/eBHPUJ7oCRQQC+SxSxuxsEwxbBj2RBlCQbivnihg==
   dependencies:
     lambdafs "^2.0.3"
 
